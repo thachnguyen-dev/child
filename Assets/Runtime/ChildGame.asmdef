@@ -1,0 +1,13 @@
+{
+    "name": "ChildGame",
+    "rootNamespace": "ChildGame",
+    "references": [
+        "Unity.InputSystem",
+        "Unity.Purchasing",
+        "Unity.LevelPlay",
+        "Unity.TextMeshPro",
+        "UnityEngine.UI",
+        "Unity.RenderPipelines.Universal.Runtime"
+    ],
+    "autoReferenced": true
+}
